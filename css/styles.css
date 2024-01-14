@@ -43,10 +43,12 @@
 
 .logo-black {
     color: var(--navy-blue);
+    font-family: "Raleway", "sans-serif";
 }
 
 .logo-white {
     color: var(--white);
+    font-family: "Raleway", "sans-serif";
 }
 
 .navigation-menu .page{
