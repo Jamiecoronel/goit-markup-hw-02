@@ -12,7 +12,7 @@
     --dairy:#FCFCFC;
 }
 
-body{
+.body{
     background-color: var(--white);
     color: var(--slate);
     font-family: "Roboto", "sans-serif";
